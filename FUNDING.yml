@@ -1,0 +1,12 @@
+# 資金調達モデルのプラットフォーム
+
+github: yusu79 # 4つまでのGitHub Sponsors対応ユーザーネームに置き換える｡ e.g., [user1, user2]
+patreon: # Patreonのユーザー名1つに置き換えてください。
+open_collective: # Open Collectiveのユーザー名1つで置き換えます。e
+ko_fi: # Ko-fiユーザー名1つで置き換える。
+tidelift: # Tideliftのプラットフォーム名/パッケージ名（例：npm/babel）に置き換えてください。
+community_bridge: # Community Bridgeのプロジェクト名（例：cloud-foundry）に置き換えてください。
+liberapay: # Liberapayのユーザー名1つで置き換えてください。
+issuehunt: # IssueHuntのユーザー名1つに置き換えてください。
+otechie: # Otechieのユーザー名1つに置き換える。
+custom: # 最大4つのカスタムスポンサーURL（例：['link1', 'link2']）に置き換えてください。
